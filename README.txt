@@ -2,7 +2,7 @@ Code C sur les appels systèmes ubuntu de communication entre un processus fils 
 
 on a utilisé deux lignes de communication
 
-Une ligne permettant au au fils de recevoir le message de son père
+Une ligne permettant au fils de recevoir le message de son père
 et une seconde ligne permettant au père de recevoir le message de son père.
 
 on commence avant tout par créer les deux lignes de communication, puis on crée le processus fils qui va aussi bénéficier de ces deux lignes
