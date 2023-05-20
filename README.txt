@@ -1,4 +1,4 @@
-Code C explication les appels systèmes de communication entre un processus fils et son parent
+Code C sur les appels systèmes ubuntu de communication entre un processus fils et son parent
 
 on a utilisé deux lignes de communication
 
